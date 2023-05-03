@@ -1,7 +1,7 @@
 
 <h1 align="center">Magickbaalb</h1>
-<p align="center">This library will work to handle magick in a faster and easier way</hp>
-
+<p align="center">This library will work to handle imagemagick in a faster and easier way</hp>
+<p align="center">quickly handle Imagemagick with javascript/nodejs</hp>
 
 
 <ol>
