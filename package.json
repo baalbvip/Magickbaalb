@@ -1,0 +1,12 @@
+{
+  "name": "magickbaalbvip",
+  "version": "1.0.2",
+  "description": "Librari managment your magick converter",
+  "main": "magickbaalb.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
